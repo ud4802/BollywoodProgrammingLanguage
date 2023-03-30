@@ -1,0 +1,8 @@
+value bole to m=6
+value bole to n=5
+likhke de m
+likhke de n
+m+n*6
+agar tum chaho to yeh m tum jesa or tum se bade n bhi ek such ban jaye 5+6 varana 6+4
+//nknknd,ncld,ncdc
+bas 10 number ho gaya
